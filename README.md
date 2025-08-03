@@ -2,7 +2,7 @@
 A record of my Rust learning journey. Since 2025/08/03.
 
 <p align="center">
-<img src="https://rust-book.cs.brown.edu/img/ferris/does_not_compile.svg" height="360" />
+    <img src="https://rust-book.cs.brown.edu/img/ferris/does_not_compile.svg" height="360" />
 </p>
 
 ## Why Rust?

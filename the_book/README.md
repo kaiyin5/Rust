@@ -1,0 +1,1 @@
+Exercises based on [Rust Book Experiment](https://rust-book.cs.brown.edu/experiment-intro.html)
